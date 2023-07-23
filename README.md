@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego González</h1>
 <h3 align="center">I am an enthusiastic student of technological areas, mainly focused on cloud and database platforms.</h3>
 
-## About me
-- 🌱 I’m currently learning **AWS and DynamoDB.**
+- 🌱 I’m currently learning **AWS, DynamoDB**
 
-## Contact
+- 📫 How to reach me **diegocornejo890@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diego-gonzález-35592427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-gonzález-35592427a/" height="30" width="40" /></a>
 <a href="https://instagram.com/32.dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="32.dias" height="30" width="40" /></a>
