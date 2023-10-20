@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego González</h1>
 <h3 align="center">I am an enthusiastic student of technological areas, mainly focused on cloud and database platforms.</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **diegocornejo890@gmail.com**
 
